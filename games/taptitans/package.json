@@ -1,0 +1,55 @@
+{
+  "author" : "zhaojm",
+
+  "jsList" : [
+
+    "src/game.js",
+    "src/game_world.js",
+
+    "src/hero_model.js",
+    "src/moster_model.js",
+
+    "src/moster_manager.js",
+
+    "src/gamescene_controller.js",
+
+    "src/hero_controller.js",
+    "src/changemoster_controller.js",
+    "src/ui_controller.js",
+    "src/touchlayer_controller.js",
+    "src/tableview_controller.js",
+    "src/tableviewcell_controller.js",
+
+    "src/game_init.js"
+  ],
+
+  "res" : {
+    "hero_model_json":"res/json/hero_model.json",
+    "moster_model_json":"res/json/moster_model.json",
+
+    "hero_plist" : "res/img/hero.plist",
+    "hero_png" : "res/img/hero.png",
+    "effect_plist" : "res/img/effect.plist",
+    "effect_png" : "res/img/effect.png",
+    "ui_plist" : "res/img/ui.plist",
+    "ui_png" : "res/img/ui.png",
+
+
+    "background_jpg" : "res/img/background.jpg",
+
+
+    "moster0_atlas" : "res/skeletons/guaiwu1.atlas",
+    "moster0_json" : "res/skeletons/guaiwu1.json",
+    "moster0_png" : "res/skeletons/guaiwu1.png",
+    "moster1_atlas" : "res/skeletons/guaiwu-2.atlas",
+    "moster1_json" : "res/skeletons/guaiwu-2.json",
+    "moster1_png" : "res/skeletons/guaiwu-2.png",
+    "moster2_atlas" : "res/skeletons/guaiwu-3.atlas",
+    "moster2_json" : "res/skeletons/guaiwu-3.json",
+    "moster2_png" : "res/skeletons/guaiwu-3.png",
+    "moster3_atlas" : "res/skeletons/guaiwu-4-2.atlas",
+    "moster3_json" : "res/skeletons/guaiwu-4-2.json",
+    "moster3_png" : "res/skeletons/guaiwu-4-2.png"
+  }
+
+}

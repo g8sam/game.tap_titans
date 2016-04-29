@@ -1,0 +1,57 @@
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : true,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 0,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "extensions", "external"],
+
+    "jsList" : [
+
+        "frame/src/frame.js",
+
+        "frame/src/globals.js",
+        "frame/src/utils.js",
+        "frame/src/file_helper.js",
+        "frame/src/ccb_helper.js",
+        "frame/src/scene_manager.js",
+        "frame/src/log.js",
+        "frame/src/game_world.js",
+
+        "frame/src/common_model.js",
+
+        "frame/src/base_controller.js",
+        "frame/src/base_node_controller.js",
+
+        "frame/src/base_tableviewcell_controller.js",
+        "frame/src/base_tableview_controller.js",
+
+
+        "frame/src/frame_init.js",
+
+
+        "games/taptitans/src/game.js",
+        "games/taptitans/src/game_world.js",
+
+        "games/taptitans/src/hero_model.js",
+        "games/taptitans/src/moster_model.js",
+
+        "games/taptitans/src/moster_manager.js",
+
+        "games/taptitans/src/gamescene_controller.js",
+        "games/taptitans/src/hero_controller.js",
+        "games/taptitans/src/changemoster_controller.js",
+        "games/taptitans/src/ui_controller.js",
+        "games/taptitans/src/touchlayer_controller.js",
+        "games/taptitans/src/tableview_controller.js",
+        "games/taptitans/src/tableviewcell_controller.js",
+
+        "games/taptitans/src/game_init.js",
+
+        "boot.js"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+  "author" : "zhaojm",
+
+  "jsList" : [
+
+    "src/frame.js",
+    "src/socket.io-1.2.1.js",
+
+    "src/globals.js",
+    "src/utils.js",
+    "src/file_helper.js",
+    "src/ccb_helper.js",
+    "src/scene_manager.js",
+    "src/log.js",
+    "src/game_world.js",
+
+    "src/common_model.js",
+
+    "src/base_controller.js",
+    "src/base_node_controller.js",
+    "src/base_touchnode_controller.js",
+    "src/base_tableviewcell_controller.js",
+    "src/base_tableview_controller.js",
+
+    "src/socketio.js",
+    "src/notification_center.js",
+    "src/network_msg_router.js",
+    "src/network_manager.js",
+    "src/event_type.js",
+
+    "src/frame_init.js"
+  ],
+
+  "res" : {
+  }
+}

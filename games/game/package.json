@@ -1,0 +1,22 @@
+{
+
+  "author" : "zhaojm",
+
+  "jsList" : [
+
+    "src/game.js",
+    "src/game_world.js",
+
+    "src/gamescene_controller.js",
+    "src/node_controller.js",
+
+    "src/game_init.js"
+
+  ],
+
+  "res" : {
+    "game_plist" : "res/img/game.plist",
+    "game_png" : "res/img/game.png"
+  }
+
+}

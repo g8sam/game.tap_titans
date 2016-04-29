@@ -1,0 +1,17 @@
+{
+  "attack0":{
+    "atkValue":100
+  },
+  "attack1":{
+    "atkValue":100
+  },
+  "attack2":{
+    "atkValue":100
+  },
+  "bigattack0":{
+    "atkValue":400
+  },
+  "bigattack1":{
+    "atkValue":400
+  }
+}
