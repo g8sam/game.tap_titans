@@ -1,6 +1,4 @@
-author : zhaojm
 
-email  : 305603665@qq.com
 
 
 此项目基于cocosbuilder，TP，等封装的MVC, frame是基于cocos2d-js 封装的js框架，games基于frame的各个游戏。
