@@ -19,7 +19,7 @@ clean:
 	[ ! -d $(OUTPUTDIR) ] || rm -rf $(OUTPUTDIR)
 
 publish:
-	cocos compile -p web -m release
+	cocos compile -p web
 
 github: publish
 	ghp-import -m "make github" -b $(GITHUB_PAGES_BRANCH) $(OUTPUTDIR)
