@@ -5,7 +5,7 @@
              classpath="/Users/zhaojm/ides/cocos2d-x-3.13.1/tools/cocos2d-console/plugins/plugin_compile/build_web/bin/compiler-1.7.jar"/>
 
     <target name="compile">
-        <jscomp compilationLevel="advanced" 
+        <jscomp compilationLevel="simple" 
                 warning="quiet"
                 debug="false" 
                 output="/Users/zhaojm/.projects/game.tap_titans/publish/html5/game.min.js"
