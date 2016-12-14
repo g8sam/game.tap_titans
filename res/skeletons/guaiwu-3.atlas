@@ -1,0 +1,153 @@
+
+guaiwu-3.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 71, 21
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 46, 11
+  size: 23, 35
+  orig: 23, 35
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 97, 18
+  size: 21, 34
+  orig: 21, 34
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 258, 65
+  size: 21, 31
+  orig: 21, 31
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 236, 63
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 426, 76
+  size: 21, 30
+  orig: 21, 30
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 189, 53
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+dangbu
+  rotate: true
+  xy: 189, 94
+  size: 32, 67
+  orig: 32, 67
+  offset: 0, 0
+  index: -1
+qugan
+  rotate: false
+  xy: 133, 68
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+tou
+  rotate: true
+  xy: 343, 93
+  size: 33, 41
+  orig: 33, 41
+  offset: 0, 0
+  index: -1
+upbutiao
+  rotate: true
+  xy: 63, 54
+  size: 7, 51
+  orig: 7, 51
+  offset: 0, 0
+  index: -1
+xiabutiao
+  rotate: true
+  xy: 189, 77
+  size: 15, 45
+  orig: 15, 45
+  offset: 0, 0
+  index: -1
+youdatui
+  rotate: false
+  xy: 386, 90
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1
+youqianbi
+  rotate: false
+  xy: 63, 63
+  size: 68, 63
+  orig: 68, 63
+  offset: 0, 0
+  index: -1
+youshangbi
+  rotate: true
+  xy: 71, 2
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+youxiaotui
+  rotate: false
+  xy: 302, 89
+  size: 39, 37
+  orig: 39, 37
+  offset: 0, 0
+  index: -1
+zuodatui
+  rotate: true
+  xy: 469, 103
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+zuoqianbi
+  rotate: false
+  xy: 2, 48
+  size: 59, 78
+  orig: 59, 78
+  offset: 0, 0
+  index: -1
+zuoshagnbi
+  rotate: false
+  xy: 426, 99
+  size: 41, 27
+  orig: 41, 27
+  offset: 0, 0
+  index: -1
+zuoxiaojiao
+  rotate: false
+  xy: 2, 8
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
+zuoxiaotui
+  rotate: false
+  xy: 258, 88
+  size: 42, 38
+  orig: 42, 38
+  offset: 0, 0
+  index: -1
