@@ -1,28 +1,34 @@
+# tap_titans
+cocos game
+
+- install android sdk
+https://developer.android.com/studio/intro/update.html
+
+- install android ndk
+https://developer.android.com/ndk/downloads/index.html
+
+- install ant
+`brew install ant`
+
+- install cocos2dx
+download http://www.cocos.com/download
+`unzip cocos2d-x-3.13.1.zip`
+`cd cocos2d-x-3.13.1`
+`python setup.py`
+`source ~/.bash_profile`
 
 
+- clone repo
+`git clone https://github.com/mingz2013/game.tap_titans.git`
 
-此项目基于cocosbuilder，TP，等封装的MVC, frame是基于cocos2d-js 封装的js框架，games基于frame的各个游戏。
+- create a new cocos project
+`cocos new -l js WebGame`
 
+- copy frameworks to this project
+`cp -rf WebGame/frameworks game.tap_titans/`
 
-当需要切换游戏时，需要修改如下几个地方：
+- try to run this project
+`cocos run -p web`
 
-    1.boot.js 内，各个模块的配置。
-
-    2.index.html 中的 宽高
-
-    3.main.js 中的 资源尺寸设置，初始化的游戏，起始运行的scene
-
-
-新建controller 的步骤：
-
-    1.新建controller文件继承frame.BaseNodeController
-
-    2.将js文件加入packege.json jsList
-
-    3.注册controller
-
-    4.ccb中绑定controller
-
-    5.应用此controller
-
-
+- publish
+`cocos compile -p web -m release --advanced`
